@@ -1,0 +1,4 @@
+unidecode
+pandas
+matplotlib
+seaborn
